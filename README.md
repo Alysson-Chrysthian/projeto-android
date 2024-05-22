@@ -1,0 +1,2 @@
+<h1>Projeto Android</h1>
+<p>Primeiro projeto feito em parceria com o gustavo guanabara, o projeto android é um bom inicio para um novato, hoje eu vejo q era um projeto extremamente simples, mais na época deu um certo trabalho, me orgulho de cada projeto que fiz com esse professor, inclusive eu apresentei esse projeto em uma apresentação sobre informatica para amadores para demonstrar o basico de html e css</p>
